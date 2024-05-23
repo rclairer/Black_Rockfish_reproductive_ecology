@@ -1,0 +1,22 @@
+Sampling_platform,Year,Species,port_name,Date_of_collection,Period,Sex,Length,Ovary_Id,Slide_Id,Date read,Reader,Certainty,Bad Slide,1,2,3,4_1,4_2,5,6,7,8,9,10,11,Max_stage,Biological_maturity,Functional_maturity,% atresia,atresia_scheme,Parastie_present,granulosa_inflammation,Spawning,Post_spawn,POFs Present Y/N
+WDFW,2019,Black Rockfish,La Push,10/1/2019,2019,F,51,1568,1568,11/2/2022,MH,1,N,Y,Y,Y,Y,Y,Y,N,N,N,N,N,N,5,1,1,10,2,N,N,N,N,N
+WDFW,2019,Black Rockfish,La Push,10/1/2019,2019,F,51,1569,1569,11/2/2022,MH,1,N,Y,Y,Y,Y,Y,Y,N,N,N,N,N,N,5,1,1,2,1,N,N,N,N,N
+WDFW,2019,Black Rockfish,La Push,10/1/2019,2019,F,39,1572,1572,11/2/2022,MH,1,N,Y,Y,Y,Y,Y,Y,N,N,N,N,N,N,5,1,1,1,1,N,N,N,N,N
+WDFW,2020,Black Rockfish,Westport,3/17/2020,2019,F,36,1576,1576,11/2/2022,MH,1,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,3,0,0,2,1,N,N,N,N,N
+WDFW,2020,Black Rockfish,Westport,3/17/2020,2019,F,27,1580,1580,11/2/2022,MH,1,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,3,0,0,4,1,N,N,N,N,N
+WDFW,2020,Black Rockfish,Westport,3/20/2020,2019,F,26,1273,1273,11/2/2022,MH,1,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,3,0,0,2,1,N,N,N,N,N
+WDFW,2020,Black Rockfish,Westport,3/20/2020,2019,F,25,1278,1278,11/2/2022,MH,1,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,3,0,0,0,1,N,N,N,N,N
+WDFW,2020,Black Rockfish,Westport,3/20/2020,2019,F,25,1464,1464,11/2/2022,MH,1,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,3,0,0,0,1,N,N,N,N,N
+WDFW,2020,Black Rockfish,Westport,3/20/2020,2019,F,26,1573,1573,11/2/2022,MH,1,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,3,0,0,0,1,N,N,N,N,N
+WDFW,2020,Black Rockfish,Westport,3/20/2020,2019,F,29,1581,1581,11/2/2022,MH,1,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,3,0,0,2,1,N,N,N,N,N
+WDFW,2020,Black Rockfish,Westport,3/20/2020,2019,F,27,1585,1585,11/2/2022,MH,1,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,3,0,0,1,1,N,N,N,N,N
+WDFW,2020,Black Rockfish,Westport,3/21/2020,2019,F,53,1561,1561,11/2/2022,MH,1,N,Y,Y,Y,N,N,N,N,N,N,N,N,Y,11,1,1,20,2,N,N,N,Y,Y
+WDFW,2021,Black Rockfish,Westport,3/11/2021,2020,F,23,1274,1274,11/2/2022,MH,1,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,3,0,0,0,1,N,N,N,N,N
+WDFW,2021,Black Rockfish,Westport,3/11/2021,2020,F,28,1370,1370,11/2/2022,MH,1,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,3,0,0,0,1,N,N,N,N,N
+WDFW,2021,Black Rockfish,Westport,3/11/2021,2020,F,28,1423,1423,11/2/2022,MH,1,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,3,0,0,0,1,N,N,N,N,N
+WDFW,2021,Black Rockfish,Westport,3/11/2021,2020,F,28,1427,1427,11/2/2022,MH,1,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,3,0,0,1,1,N,N,N,N,N
+WDFW,2021,Black Rockfish,Westport,3/11/2021,2020,F,43,1435,1435,11/2/2022,MH,1,N,Y,Y,Y,N,N,N,N,N,N,N,N,Y,11,1,1,4,1,N,N,N,Y,Y
+WDFW,2021,Black Rockfish,Westport,4/5/2021,2020,F,28,1483,1483,11/2/2022,MH,1,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,3,0,0,0,1,N,N,N,N,N
+WDFW,2021,Black Rockfish,Westport,4/7/2021,2020,F,55,829,829,1/6/2023,MH,1,N,Y,Y,Y,N,N,N,N,N,N,N,N,Y,11,1,1,10,2,N,N,N,Y,Y
+WDFW,2021,Black Rockfish,Neah Bay,4/15/2021,2020,F,28,42,42,11/2/2022,MH,1,N,Y,Y,Y,N,N,N,N,N,N,N,N,N,3,0,0,0,1,N,N,N,N,N
+WDFW,2021,Black Rockfish,Neah Bay,4/15/2021,2020,F,54,179,179,11/2/2022,MH,1,N,Y,Y,Y,N,N,N,N,N,N,N,N,Y,11,1,1,10,2,N,N,N,Y,Y
